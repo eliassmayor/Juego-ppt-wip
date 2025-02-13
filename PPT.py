@@ -19,7 +19,7 @@ condición2 = p1 == op2 and p2 == op3
 ###############################
 
 if nombre_p1 == nombre_p2:
-    print('Empate cagón')
+    print('Empate genios')
 elif(condición1) or (condición3) or (condición2):
     print(nombre_p1, " gana master")
 else:
